@@ -22,9 +22,9 @@ Three publicly available datasets were used in the making of the report:
 
 Five python scripts are used to produce the results presented in the report. To run these sripts, open the notebooks within this repository in Jupyter. Import the datasets as described and run all cells in order. The following scripts can be run independently of each other: 
 
-* Marginal_Emission_Factors.ipynb imports the energy generation data and produce estimates of marginal factors.
+* Marginal_Emission_Factors.ipynb imports the energy generation data and produces estimates of marginal factors.
 * Smart_Meter_Data.ipynb downloads and pre-processes the smart meter data
-* Market_Index_Prices.ipynb downloads and pre-process the market pricing data.
+* Market_Index_Prices.ipynb downloads and pre-processes the market pricing data.
 * Demand_Modelling.ipynb models elasticity matrices for different consumer groups
 
 The final script, Price_Optimisation.ipynb, relies on the outputs from the aforementioned scripts. It uses them to run the pricing optimisation models which produce the report's main findings.
