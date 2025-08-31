@@ -15,12 +15,12 @@ Three publicly available datasets were used in the making of the report:
 
 3)	Market index prices
 * This dataset was downloaded from: https://bmrs.elexon.co.uk/market-index-prices and is imported into ‘Market_Index_Prices.ipynb’
-* Data was downloaded for observations between: 00:00 on 24/08/2025 and 23:30 on 31/07/2025
+* Data was downloaded for observations between: 00:00 on 24/07/2025 and 23:30 on 31/07/2025
 
 
 ## Python Scripts
 
-Five python scripts are used to produce the results presented in the report. The following scripts can be run independently of each other: 
+Five python scripts are used to produce the results presented in the report. To run these sripts, open the notebooks within this repository in Jupyter. Import the datasets as described and run all cells in order. The following scripts can be run independently of each other: 
 
 * Marginal_Emission_Factors.ipynb imports the energy generation data and produce estimates of marginal factors.
 * Smart_Meter_Data.ipynb downloads and pre-processes the smart meter data
