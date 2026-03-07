@@ -1,6 +1,19 @@
-# Extended_Research_Project
+# Extended-Research-Project
 
-This repository contains all of the Python code required to reproduce the results presented in the Extended Research Project (ERP). The details below explain how to source the exact datasets used and the order in which each script should be executed.
+This repository contains all of the Python code required to reproduce the results presented in my Extended Research Project (Master's Thesis Project). See below for exact reproducibility.
+
+## Repository Structue
+```
+Extended-Research-Project/
+│
+├── Marginal_Emission_Factors.ipynb
+├── Smart_Meter_Data.ipynb
+├── Market_Index_Prices.ipynb
+├── Demand_Modelling.ipynb
+├── Smart_Meter_Data.ipynb
+│
+└── README.md
+```
 
 ## Data 
 
