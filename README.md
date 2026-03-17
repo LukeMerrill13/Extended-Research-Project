@@ -11,6 +11,7 @@ Extended-Research-Project/
 ├── Market_Index_Prices.ipynb
 ├── Demand_Modelling.ipynb
 ├── Smart_Meter_Data.ipynb
+├── ERP_Report.pdf
 │
 └── README.md
 ```
